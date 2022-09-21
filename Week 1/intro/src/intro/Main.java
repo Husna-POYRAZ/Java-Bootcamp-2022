@@ -4,8 +4,7 @@ public class Main {
 	
 	public static void main(String[] args) {
 		System.out.println("Hello wold!");
-		
-		
+			
 		// 1- VARIABLES
 		// Java'da değişken isimlendirmeleri, camelCase yazılır.
 		String ortaMetin = "İlginizi çekebilir.";
@@ -20,7 +19,7 @@ public class Main {
 		double dolarDun = 28;
 		double dolarBugun = 14.25;
 		
-	    // boolean : mantıksal ifade
+	        // boolean : mantıksal ifade
 		boolean dolarDustuMu = true;
 		boolean dolarYukseldiMi = false;
 		
