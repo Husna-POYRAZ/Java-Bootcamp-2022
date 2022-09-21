@@ -12,7 +12,7 @@ public class Main {
 		
 		System.out.println(ortaMetin);
 		
-		//integer : tam sayı
+		// integer : tam sayı
 		int vade = 10;
 		
 		// double : ondalıklı sayı 	 	
