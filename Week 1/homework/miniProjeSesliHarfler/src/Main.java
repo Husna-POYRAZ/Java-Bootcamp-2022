@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        char harf1 = 'İ';
+        char harf1 = 'e';
         char harf2 = Character.toUpperCase(harf1);
 
         switch (harf2) {
