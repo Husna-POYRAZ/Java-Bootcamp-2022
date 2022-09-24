@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        char harf1 = 'İ';
-        char harf2 = Character.toUpperCase(harf1);
+        char ch1 = 'e';
+        char harf = Character.toUpperCase(ch1);
 
-        switch (harf2) {
+        switch (harf) {
             case 'A':
             case 'I':
             case 'O':

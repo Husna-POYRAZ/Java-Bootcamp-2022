@@ -45,7 +45,7 @@ public class Main {
 		System.out.println(krediler[1]);
 		System.out.println(krediler[2]);
 		
-		// 4- LOOP
+		// 4- FOR LOOP
 		for (int i = 0; i < krediler.length; i++) {
 			System.out.println(krediler[i]);
 		}
