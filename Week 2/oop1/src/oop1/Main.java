@@ -8,7 +8,7 @@ public class Main {
 		Product product1 = new Product();		
 		product1.setName("Delonghi Kahve Makinesi"); 
 		product1.setUnitPrice(7500);
-		product1.setDiscount(7);
+		product1.setDiscount(9);
 		product1.setImageUrl("image1.jpg");
 		product1.setUnitsInStock(3);
 		
